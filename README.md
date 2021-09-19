@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=15c534&width=380&height=45&lines=Welcome+To+My+Profile+🤗;;Nice+To+Meet+You+🤝&center=true"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=black&width=380&height=45&lines=Welcome+To+My+Profile+🤗;;Nice+To+Meet+You&center=true"></a>
 </p>  
 
 
@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on ...web development
 - 🌱 I’m currently learning ...javascript
 - 💬 Ask me about ...anything
-- 📫 How to reach me: ... 
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...I'm a musician 😄
 
@@ -23,7 +22,7 @@
 </p>
 
 
-## 🏆 My Github Stats:
+##My Github Stats:
 
 <div>
     <a href="https://github-readme-stats.vercel.app/api?username=sanaz-git&show_icons=true&theme=tokyonight">
@@ -37,9 +36,7 @@
     </a>
 </div>
 
-### 📬 Contact me at 👇
-
-
+### 📫 Contact me at 👇
 
 <a href="https://www.linkedin.com/in/sanaz-zeraati-b366a27a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
 
