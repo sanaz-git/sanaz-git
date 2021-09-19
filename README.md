@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=black&width=380&height=45&lines=Welcome+To+My+Profile+🤗;;Nice+To+Meet+You&center=true"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=black&width=380&height=45&lines=Welcome+To+My+Profile;;Nice+To+Meet+You&center=true"></a>
 </p>  
 
 
 ### here is what I'm working on! 👋
 
-<!-- [linkedin][linkedin]</b> -->
 - 🔭 I’m currently working on ...web development
 - 🌱 I’m currently learning ...javascript
 - 💬 Ask me about ...anything
@@ -36,15 +35,12 @@
     </a>
 </div>
 
-### 📫 Contact me at 👇
+### 📫 Contact me at:
 
 <a href="https://www.linkedin.com/in/sanaz-zeraati-b366a27a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
 
 
 
 
-<!-- <a href="https://www.linkedin.com/in/sanaz-zeraati-b366a27a/">
-  <img align="left" width="20" alt="Sanaz Zeraati | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a> -->
 
 
