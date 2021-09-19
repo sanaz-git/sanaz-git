@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=red&width=380&height=45&lines=Welcome+To+My+Profile+❤️;&center=true">
+  <img src="https://readme-typing-svg.herokuapp.com?color=black&width=380&height=45&lines=Welcome+To+My+Profile;&center=true">
 </p>  
 
 
@@ -10,6 +10,9 @@
 - 💬 Ask me about ...anything
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...I'm a musician 
+### 📫 Contact me at:
+
+<a href="https://www.linkedin.com/in/sanaz-zeraati-b366a27a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -36,9 +39,7 @@
     </a>
 </div>
 
-### 📫 Contact me at:
 
-<a href="https://www.linkedin.com/in/sanaz-zeraati-b366a27a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
 
 
 
