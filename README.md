@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on ...web development
 - 🌱 I’m currently learning ...javascript
-- 💬 Ask me about ...anything
-- 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...I'm a musician 
 ### 📫 Contact me at:
 
