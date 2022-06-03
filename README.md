@@ -28,9 +28,9 @@
 
 <div>
     <a href="https://github-readme-stats.vercel.app/api?username=sanaz-git&show_icons=true&theme=tokyonight">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanaz-git&show_icons=true&theme=tokyonight" width="400">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanaz-git&show_icons=true&theme=tokyonight" width="350">
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sanaz-git&layout=compact&langs_count=10&theme=tokyonight" width="400">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sanaz-git&layout=compact&langs_count=10&theme=tokyonight" >
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanaz-git&layout=compact&langs_count=10&theme=tokyonight">
     </a>
     <a href="https://activity-graph.herokuapp.com/graph?username=sanaz-git&theme=github">
