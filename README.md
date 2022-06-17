@@ -5,8 +5,8 @@
 
 ### here is what I'm working on! 👋
 
-- 🔭 I’m currently working on ...Web Development
-- 🌱 I’m currently learning ...React
+- 🔭 I’m currently working on ...Front-End Project
+- 🌱 I’m currently learning ...Web Development
 - ⚡ Fun fact: ...I'm a musician 
 ### 📫 Contact me at:
 
