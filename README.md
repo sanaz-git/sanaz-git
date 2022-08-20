@@ -33,9 +33,9 @@
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sanaz-git&layout=compact&langs_count=10&theme=tokyonight" >
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanaz-git&layout=compact&langs_count=10&theme=tokyonight" width="400">
     </a>
-    <a href="https://activity-graph.herokuapp.com/graph?username=sanaz-git&theme=github">
+<!--     <a href="https://activity-graph.herokuapp.com/graph?username=sanaz-git&theme=github">
         <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sanaz-git&theme=github" width="800">
-    </a>
+    </a> -->
 </div>
 
 
