@@ -3,11 +3,10 @@
 </p>  
 
 
-### here is what I'm working on! 👋
+### Hi there, I'm Sanaz 👋
 
 - 🔭 I’m currently working on ...Front-End Project
 - 🌱 I’m currently learning ...Web Development
-- ⚡ Fun fact: ...I'm a musician 
 ### 📫 Contact me at:
 
 <a href="https://www.linkedin.com/in/sanaz-zeraati-b366a27a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
@@ -20,23 +19,12 @@
 </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <img height="40" src="https://user-images.githubusercontent.com/87442098/159114856-15d915d6-b9ca-40f8-829c-987b46f6eeda.png">
  
 </p>
 
 
-### My Github Stats:
 
-<div align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=sanaz-git&show_icons=true&theme=tokyonight">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanaz-git&show_icons=true&theme=tokyonight" width="400">
-    </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sanaz-git&layout=compact&langs_count=10&theme=tokyonight" >
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanaz-git&layout=compact&langs_count=10&theme=tokyonight" width="400">
-    </a>
-<!--     <a href="https://activity-graph.herokuapp.com/graph?username=sanaz-git&theme=github">
-        <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sanaz-git&theme=github" width="800">
-    </a> -->
-</div>
 
 
 
