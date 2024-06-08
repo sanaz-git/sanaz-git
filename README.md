@@ -5,8 +5,8 @@
 
 ### Hi there, I'm Sanaz 👋
 
-- 🔭 I’m currently working on ...Front-End Project
-- 🌱 I’m currently learning ...Web Development
+- 🔭 I’m currently working on Front-End Project
+- 🌱 I’m currently learning Web Development
 ### 📫 Contact me at:
 
 <a href="https://www.linkedin.com/in/sanaz-zeraati-b366a27a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
